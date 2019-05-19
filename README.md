@@ -1,2 +1,2 @@
 # VereMVC
-Java Web MVC Framework  http://en.verejava.com
+Simple Powerfull Web MVC Framework  http://en.verejava.com
